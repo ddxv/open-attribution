@@ -24,10 +24,12 @@
 	<header class="sticky top-0 z-10">
 		<AppBar padding="p-1 sm:p-2 md:p-4">
 			{#snippet lead()}
-				<a href="/" class="md:ml-4">
-					<strong class="justify-start break-words text-xl uppercase md:text-2xl"
-						>Open Attribution</strong
-					>
+				<a href="/" class="md:ml-1">
+					<img
+						src="/OpenAttribution_logo_wide_200.png"
+						alt="Open Attribution"
+						class="w-[150px] md:w-[180px]"
+					/>
 				</a>
 			{/snippet}
 
